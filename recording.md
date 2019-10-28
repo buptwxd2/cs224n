@@ -1,0 +1,5 @@
+## 10/25/2019 Lecture 6 – Language Models and RNNs
+### https://www.youtube.com/watch?v=iWea12EAu6U&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6
+
+## 10/28/2019 Lecture 7 – Vanishing Gradients, Fancy RNNs
+### https://www.youtube.com/watch?v=QEw0qEa0E50&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=7
