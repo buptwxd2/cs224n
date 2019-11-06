@@ -5,4 +5,8 @@
 ### https://www.youtube.com/watch?v=QEw0qEa0E50&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=7
 
 ## 11/5/2019 Lecture 8 - Translation, Seq2Seq, Attention
-### https://www.youtube.com/watch?v=XXtpJxZBa2c&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8  <== 47:00 how do we evaluate Machine Translation
+### https://www.youtube.com/watch?v=XXtpJxZBa2c&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8 
+
+
+# History
+#### 11/6 Finished the remaining part of Lecture 8
